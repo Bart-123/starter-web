@@ -14,6 +14,8 @@ Added a purpose
 
 ## How To Contribute
 
+Fork and pull this res.
+
 ### Copyright
 
 Dit is een copyright notice
