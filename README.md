@@ -13,3 +13,7 @@ Added a purpose
 ## Deployment
 
 ## How To Contribute
+
+### Copyright
+
+Dit is een copyright notice
