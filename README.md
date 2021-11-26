@@ -4,9 +4,11 @@ This is a simple website project for github
 
 ## Introduction
 
-A simple intro
+A simple intro extended
 
 ## Purpose
+
+Added a purpose
 
 ## Deployment
 
