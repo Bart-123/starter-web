@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for github. WIth more text
+This is a simple website project for github. WIth more text, and more changes
 
 ## Introduction
 
