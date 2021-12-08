@@ -1,2 +1,1 @@
-Dit is een test
-nog een test
+This is an new file
