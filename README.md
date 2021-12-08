@@ -18,4 +18,4 @@ Fork and pull this res.
 
 ### Copyright
 
-Dit is een copyright notice
+Dit is een copyright notice. All rights reserved
